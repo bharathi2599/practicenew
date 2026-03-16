@@ -1,0 +1,35 @@
+<suite name="suiteA" parallel="tests" theread-count="4">
+
+<test  name="test1">
+
+
+
+<parameter>  name="browser"  value="chrome"</parameter>
+<classes>
+
+
+
+<class name="test.TS_02"></class>
+
+</classes>
+
+
+</test>
+
+
+<test  name="test2">
+
+<parameter>  name="browser"  value="edge"</parameter>
+<classes>
+
+
+
+<class name="test.TS_02"></class>
+
+</classes>
+
+
+</test>
+
+
+</suite>

@@ -1,0 +1,20 @@
+<suite name="suite1">
+
+<test  name="test1">
+
+
+
+
+<classes>
+
+
+
+<class name="test.TS_02"></class>
+
+</classes>
+
+
+</test>
+
+
+</suite>

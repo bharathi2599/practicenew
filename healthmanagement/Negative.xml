@@ -1,0 +1,25 @@
+<suite name="suiteA">
+
+<listeners>  
+listener class-name"utility2.ExtentReporter"/>
+</listeners>
+
+
+<test  name="testA">
+
+
+
+
+<classes>
+
+
+
+<class name="testcases.Sample"/>
+
+</classes>
+
+
+</test>
+
+
+</suite>

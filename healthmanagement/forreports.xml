@@ -1,0 +1,23 @@
+<suite name="suiteA">
+
+<lister>class-name="utility2.MyListner"</lister>
+
+
+<test  name="testA">
+
+
+
+
+<classes>
+
+
+
+<class name="testcases.Sample"></class>
+
+</classes>
+
+
+</test>
+
+
+</suite>
